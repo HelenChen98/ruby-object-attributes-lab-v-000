@@ -1,5 +1,5 @@
 class Dog
-  
+
   def name
     @name
   end
@@ -17,4 +17,3 @@ class Dog
   end
 
 end
-
